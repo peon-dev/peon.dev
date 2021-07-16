@@ -1,32 +1,43 @@
 <h1>Automated Code Quality Improvements.</h1>
 
-PHPMate creates pull requests to improve quality of your code  and decrease technical debt.
-
+PHP Mate creates pull requests to improve quality of your code and decrease technical debt.
 
 ----------
 
 <h2>Features</h2>
 
+- Define specific times or after each commit - you can exclude days (like weekends) when php mate should rest
+- Get notified - when pr is received or updated, when something goes wrong
+- Cycle developers by PR random assignment
 
-<h3>PHP version related upgrades</h3>
+**Well and what exactly can PHP Mate do for me?**
 
-- Keep your project always ready for the newest PHP! 
-- Handle any backward compatibility breaks and deprecations.
-- Make use of all features in your current PHP version.
+<h3>Upgrade your PHP version</h3>
+
+Keep your application always up to date with the most recent PHP version! 
+
+- Handle any bc breaks and deprecations
+- Use of all modern features
 
 
-<h3>Framework upgrades</h3>
+<h3>Framework / library upgrades</h3>
 
-- Upgrade your project to newer versions  
-- Handle any backward compatibility breaks and deprecations.
+- Receive bugfixes & hotfixes of your composer packages
+- Handle any backward compatibility breaks and deprecations
 
 
 <h3>Code quality</h3>
 
-- Dead code
-- Your utility/tool/script
+- Dead code detection & removal
+- Code redability
+- *todo: write more specific code quality procedures, maybe with examples*
 
 
+<h3>Automate execution of your other tools</h3>
+
+- Rector
+- Coding Standards
+- Any other custom utility/tool/script
 
 ---------
 
@@ -36,21 +47,25 @@ PHPMate creates pull requests to improve quality of your code  and decrease te
 2) Review
 3) Reject / Merge
 
+You can comment any time to PR opened by PHP Mate, we will receive and appreciate this feedback. 
 
-<h3>We will save your time:<h3>
-Delegate boring and automatable work to the expert (PHPMate).
-Focus on what is the most important for your business - delivering features.
 
-<h4>Mission & Vision ?</h4>
+<h3>We will save your time:</h3>
+
+- Delegate boring and automatable work to the expert (PHPMate).
+- Focus on what is the most important for your business - delivering features.
+
+---------
+
+<h2>Mission & Vision ?</h2>
 
 - We want to make developers happy
 - Stay 100% transparent at everything we do.
 - We hate legacy code ourselves
 
+---------
 
--------
-
-<h4>Request free demo</h4>
+<h2>Request free demo</h2>
 
 Leave us an email and we will get in touch.  
 Usually we reply within 24 hours.  
@@ -58,4 +73,20 @@ Usually we reply within 24 hours.
 
 -------
 
-Save time 
+<h2>Success story from Carvago</h2>
+
+**Old flow:**
+1) Push
+2) CI runs for 20 minutes - 15 minutes Rector run reveals code improvement and fails a pipeline
+3) Developer fixes the bug
+4) Pushes & another 20 minutes of CI
+
+
+**New improved flow With PHP Mate:**
+1) Push
+2) CI runs for 10 minutes & succeeds, because Rector is no longer directly part of pipeline, but delegated to PHP Mate
+3) Next day there is pull request awaiting with all Rector fixes from previous day
+4) It takes 2 minutes to review + merge
+
+This way Carvago saved tens of minutes every day, for every developer in the company.  
+Now, time can be spent in much better way than waiting for CI pipeline.
