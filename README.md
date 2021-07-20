@@ -90,3 +90,14 @@ Usually we reply within 24 hours.
 
 This way Carvago saved tens of minutes every day, for every developer in the company.  
 Now, time can be spent in much better way than waiting for CI pipeline.
+
+
+
+-------------
+
+#### TODO: Future plans, possible features
+
+- You can delegate many tasks to me, it does not have to result into a PR - etc i can be responsible for your cron jobs
+- You can define more complex pipelines / work schedule for me, I can do it! 
+
+(pipeline editor)
