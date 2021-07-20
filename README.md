@@ -92,7 +92,6 @@ This way Carvago saved tens of minutes every day, for every developer in the com
 Now, time can be spent in much better way than waiting for CI pipeline.
 
 
-
 -------------
 
 #### TODO: Future plans, possible features
