@@ -1,20 +1,22 @@
-Developers <b>WASTE</b> way too much <b>TIME</b>
-<smaller>by focusing on tasks which can be automated</smaller>
+Developers <b>WASTE</b> way too much <b>TIME</b><br>
+<small>by focusing on tasks which <b>can be automated</b></small>
 
-<b>Delegate</b> all that boring stuff <b>to PHPMate</b>.
+<b>Delegate</b> all that boring stuff <b>to PHPMate</b>.<br>
 I am here to bring <b>effectivity & productivity</b> back to your team!
 
 
-Allow developers to focus on what truly matters - business solutions, and leave the rest to me.
+Allow developers to focus on what truly matters - business solutions, and leave the rest to me.<br>
 All I want is to make developers happy!
 
 ----
 
-#### NO CONFIGURATION REQUIRED
-Start receiving merge requests from me immediately<br>
-[Sign up with Github](#)<br>
-[Sign up with GitLab](#)<br>
-[Sign up with BitBucket](#)
+Start receiving merge requests from me immediately
+
+#### No configuration required, just connect your git repository
+
+[Sign with Github](#)<br>
+[Sign with GitLab](#)<br>
+[Sign with BitBucket](#)
 
 ----
 
@@ -31,20 +33,28 @@ You can either choose from predefined recipes from the cookbook and/or define cu
 
 ### Cookbook
 
-Choose from predefined <b>recipes</b> maintained by the community.
+Choose from many predefined <b>recipes</b> maintained by the community.
 
-Here is just a little sneak peek of what is possible with me:
+Recipes in Cookbook are focused on (but not limited to)  <b>improving code quality and decreasing the technical debt</b>.
 
-- Coding Standards
-- Code Quality to decrease technical debt
-- Composer dependencies updates
-- PHP version updates
-- ... and much more ...
+Here is just a little sneak peek of limitless possibilities with me:
 
-### Custom jobs
+- Fix coding standards issues
+- Remove dead code
+- Update dependencies
+- Add missing and fix incorrect type hints
+- Update PHP version & features
+- Generate various reports
+- <small>... and many more, not only code quality focused ready-to-use recipes ...</small>
 
-You can define tasks on your own. <todo, need more text>
 
+### Custom tasks
+
+Maybe you need something custom, something very special. <b>Custom tasks</b> are here for you.
+
+Anything, that can run in command line, can be a task!<br>
+Do you have custom bash scripts? Python? JavaScript? Docker command?
+TODO
 -----
 
 TODO: User success story - Compare PHPMate flow with typical CI flow in Carvago
@@ -60,4 +70,10 @@ TODO: User success story - Compare PHPMate flow with typical CI flow in Carvago
 
 ---
 
-Request early access
+### Request FREE early access<br>
+
+PHPMate is currently in closed beta.<br>
+Get in touch and let's chat, if you fit into our early access program.<br>
+
+<small>Usually we reply within 24 hours.</small><br>
+<input placeholder="your@email.tld"> <input type="submit"><br>
