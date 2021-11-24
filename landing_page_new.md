@@ -1,4 +1,4 @@
-Developers <b>WASTE</b> way too much <b>TIME</b><br>
+Developers <b>waste</b> way too much <b>time</b><br>
 <small>by focusing on tasks which <b>can be automated</b></small>
 
 <b>Delegate</b> all that boring stuff <b>to PHPMate</b>.<br>
@@ -54,7 +54,9 @@ Maybe you need something custom, something very special. <b>Custom tasks</b> are
 
 Anything, that can run in command line, can be a task!<br>
 Do you have custom bash scripts? Python? JavaScript? Docker command?
+
 TODO
+
 -----
 
 TODO: User success story - Compare PHPMate flow with typical CI flow in Carvago
@@ -63,10 +65,10 @@ TODO: User success story - Compare PHPMate flow with typical CI flow in Carvago
 
 ## Used by
 - Carvago
-- Sharry.tech
+- Sharry
 - Glami
 - TEAS
-- NetrixOne (NX1.cz)
+- NetrixOne
 
 ---
 
