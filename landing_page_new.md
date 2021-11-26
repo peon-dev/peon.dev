@@ -59,11 +59,26 @@ If the run results into code changes, I will open merge request for you.
 
 -----
 
-TODO: User success story - Compare PHPMate flow with typical CI flow in Carvago
+#### On average, PHPMate saves 30 minutes to every backend developer in Carvago. Every day.
+
+Carvago uses [Rector](https://github.com/rectorphp/rector) and it was part of their CI pipeline. Because their codebase is quite big, the job takes up to <b>15 minutes to run</b>.
+
+It was very frustrating for developers, to see failure in CI after 10+ minutes, then go fix locally, push and wait another 10+ minutes for CI to pass!
+
+And here I come! They completely delegated responsibility of running and fixing Rector issues to me. I run this task on a regular basis, if there are any issues I fix them and open merge request. Then someone from the team reviews my changes, and merges.
+
+This way, I am saving a hours of developer time every day! And whatover, developers are happier, which is the most important thing for me!
+
+| Before | After |
+--- | ---
+| Every day, 30 minutes wasted on average | No more time wasting |
+| Developer responsibility | PHPMate responsibility |
+| Frustrated developers | Happy developers |
+
 
 -----
 
-## Used by
+## Loved by
 - Carvago
 - Sharry
 - Glami
@@ -78,4 +93,4 @@ PHPMate is currently in closed beta.<br>
 Get in touch and let's chat, if you fit into our early access program.<br>
 
 <small>Usually we reply within 24 hours.</small><br>
-<input placeholder="your@email.tld"> <input type="submit"><br>
+`<input>` `<button>`
