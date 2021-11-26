@@ -1,0 +1,1 @@
+## This repository holds texts for [phpmate.io](https://phpmate.io) webpage
