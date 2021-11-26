@@ -67,7 +67,7 @@ It was very frustrating for developers, to see failure in CI after 10+ minutes, 
 
 And here I come! They completely delegated responsibility of running and fixing Rector issues to me. I run this task on a regular basis, if there are any issues I fix them and open merge request. Then someone from the team reviews my changes, and merges.
 
-This way, I am saving a hours of developer time every day! And whatover, developers are happier, which is the most important thing for me!
+This way, I am saving a hours of developer time every day! Furthermore, developers are happier, which is the most important thing for me!
 
 | Before | After |
 --- | ---
