@@ -50,12 +50,12 @@ Here is just a little sneak peek of limitless possibilities with me:
 
 ### Custom tasks
 
-Maybe you need something custom, something very special. <b>Custom tasks</b> are here for you.
+Maybe you need something custom, something very special. <b>Custom tasks</b> are here for you!
 
-Anything, that can run in command line, can be a task!<br>
-Do you have custom bash scripts? Python? JavaScript? Docker command?
+Do you have bash scripts? PHP? Python? JavaScript? Go? Docker command?<br>
+Anything, that can run in a command line, can be a task I will run for you.
 
-TODO
+If the run results into code changes, I will open merge request for you.
 
 -----
 
