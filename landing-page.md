@@ -43,7 +43,8 @@ Here is just a little sneak peek of limitless possibilities with me:
 - Remove dead code
 - Update dependencies
 - Add missing and fix incorrect type hints
-- Update PHP version & features
+- Make use of the newest PHP features
+- Fix deprecations
 - Generate various reports
 - <small>... and many more, not only code quality focused ready-to-use recipes ...</small>
 
