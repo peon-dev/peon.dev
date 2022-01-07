@@ -1,1 +1,1 @@
-## This repository holds texts for [phpmate.io](https://phpmate.io) webpage
+## This repository holds texts for [peon.dev](https://peon.dev) webpage
