@@ -1,0 +1,16 @@
+# IDE
+.idea/
+.vscode/
+.claude/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Dependencies and build artifacts in website/
+website/node_modules/
+website/dist/
+website/.astro/
+
+# Keep the docs folder for GitHub Pages
+# (This is the production build that gets committed)
